@@ -1,0 +1,36 @@
+{
+  "promocodes": [
+    {
+      "id": 1,
+      "title": "Acme Co.",
+      "code": "ACME50",
+      "image": "https://george-fx.github.io/rossi-data/promocodes/01.jpg",
+      "discount": 50,
+      "expiry": "june 30, 2024"
+    },
+    {
+      "id": 2,
+      "title": "Abstergo ltd.",
+      "code": "ABSTERGO30",
+      "image": "https://george-fx.github.io/rossi-data/promocodes/02.jpg",
+      "discount": 30,
+      "expiry": "june 30, 2024"
+    },
+    {
+      "id": 3,
+      "title": "Barone LLC.",
+      "code": "BARONE15",
+      "image": "https://george-fx.github.io/rossi-data/promocodes/03.jpg",
+      "discount": 15,
+      "expiry": "june 30, 2024"
+    },
+    {
+      "id": 4,
+      "title": "Moka PT.",
+      "code": "MOKA15",
+      "image": "https://george-fx.github.io/rossi-data/promocodes/03.jpg",
+      "discount": 15,
+      "expiry": "june 30, 2024"
+    }
+  ]
+}
